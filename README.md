@@ -1,5 +1,5 @@
 # ML-algorithm
-Implementation from Scratch of Some ML algorithms....
+Implementation from Scratch
 1-Linear Regression
 2-Logistic Regression
 3-Decision Tree
