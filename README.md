@@ -7,4 +7,6 @@ Implementation from Scratch
 5-Naive Bayes
 6-PCA
 7-Gradien Decent
-Continue...
+8-NLP
+9-Neurral Network
+10-CNN
